@@ -13,7 +13,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Apo1lyon&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there, I'm <a href=https://career.habr.com/apo1lyon target="_blank">Vsevolod</a>
+    Hey there, I'm <a href=https://career.habr.com/apo1lyon target="_blank">Vsevolod</a>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -41,6 +41,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CsHarp"  alt="CsHarp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
 </div>
 
 ---
