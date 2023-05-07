@@ -47,6 +47,8 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ---
 
 ### :fire: My Stats :
+[![trophy](https://github-profile-trophy.vercel.app/?username=Apo1lyon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy))
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Apo1lyon&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apo1lyon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
