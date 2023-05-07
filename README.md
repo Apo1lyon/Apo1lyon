@@ -1,19 +1,19 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="your-whatsapp-URL">
-      <img src="https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+    <a href="https://api.whatsapp.com/send/?phone=89283153420">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
     </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <a href="mailto:apollyon367@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a href="https://t.me/Apo1lyon367">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Apo1lyon&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    hey there, I'm <a href=https://career.habr.com/apo1lyon target="_blank">Vsevolod</a>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
@@ -23,7 +23,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I am graduated from college and ready to contribute to the IT field.
 
