@@ -18,12 +18,17 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
+    <img src=https://media.giphy.com/media/9HKOmZ11tjfkk/giphy.gif width="600" height="300">
+ </div>
+ 
 ---
-
+ 
 ### :man_technologist: About Me :
+
+<div>
+    <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="300" height="150" align="right" vspace="5" hspace="5">
+ </div>
+ 
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I am graduated from college and ready to contribute to the IT field.
 
