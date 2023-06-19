@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="https://api.whatsapp.com/send/?phone=89283153420">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-    </a>
     <a href="mailto:apollyon367@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
