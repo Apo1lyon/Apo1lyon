@@ -48,6 +48,10 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ---
 
+! [Статистика по Leetcode](https://leetcard.jacoblin.cool/Ap01lyon)
+
+---
+
 ### :fire: My Stats :
 [![trophy](https://github-profile-trophy.vercel.app/?username=Apo1lyon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy))
 
