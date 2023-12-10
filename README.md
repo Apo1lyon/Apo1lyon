@@ -20,7 +20,7 @@
  
 ---
  
-### :bowtie: About Me :
+### About Me:
 
 <div>
     <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="300" height="150" align="right" vspace="5" hspace="5">
@@ -37,7 +37,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="Dot-net"  alt="Dot-net" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="CsHarp"  alt="CsHarp" width="40" height="40"/>&nbsp;
@@ -47,12 +47,12 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 </div>
 
 ---
-### :suspect: My LeetCode :
+### My LeetCode :
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Ap01lyon&theme=dark)](https://github.com/Ap01lyon/leetcode-stats)
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 [![trophy](https://github-profile-trophy.vercel.app/?username=Apo1lyon&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy))
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Apo1lyon&theme=dark&background=000000)](https://git.io/streak-stats)
