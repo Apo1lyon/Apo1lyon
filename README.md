@@ -20,7 +20,7 @@
  
 ---
  
-### :man_technologist: About Me :
+### :bowtie: About Me :
 
 <div>
     <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="300" height="150" align="right" vspace="5" hspace="5">
